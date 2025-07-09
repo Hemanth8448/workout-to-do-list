@@ -5,7 +5,7 @@
 .env
 
 # IDE settings
-./idea
+/.idea
 
 # logs (optional)
 *.log
