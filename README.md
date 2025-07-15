@@ -38,7 +38,10 @@
 
 ##  Folder Structure
 ```
-MERN_Stack/
+workout-plans/
+├── screenshots/
+│   ├── login-page.png
+│   └── dashboard.png
 ├── Backend/
 │   ├── controllers/
 │   │   ├── userController.js
@@ -109,16 +112,16 @@ MERN_Stack/
 | PATCH  | `/api/workouts/:id`  | Update a workout        |
 
 ---
-## 📸 Screenshots
+##  Screenshots
 
-### 🔐 Login Page
+###  Login Page
 Shows the user login form with email and password authentication.
 
 ![Login Page](./screenshots/login-page.png)
 
 ---
 
-### 🏋️ Dashboard Page
-Displays all workouts, user welcome message, and the "Add Workout" form.
+###  Dashboard Page
+Displays all workouts, user welcome message, and the "Add New Workout" form.
 
 ![Dashboard Page](./screenshots/dashboard.png)
