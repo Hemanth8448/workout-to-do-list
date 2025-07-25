@@ -1,0 +1,10 @@
+# dependencies
+/Backend/node_modules/
+# environment variables
+.env
+
+# IDE settings
+.idea
+
+# logs (optional)
+*.log
